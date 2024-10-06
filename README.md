@@ -7,7 +7,7 @@ Bu proje benzin dolumu yapılacak olan arabaların verilerinin tutulduğu bir ma
 
 **Yakıt İkmali**
 
-![Hareket Tablosu](Ikmalsayfasi.png)
+![Yakıt İkmali](Ikmalsayfasi.png)
 
 ## Kullanılan Teknolojiler
 Projede aşağıdaki teknolojiler kullanılmaktadır:
